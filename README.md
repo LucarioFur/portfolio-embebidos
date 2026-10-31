@@ -8,8 +8,6 @@ Soy [Lorhan Fernandes Ribeiro](https://github.com/LucarioFur). Aquí comparto al
 
 Desarrollé esta herramienta para ayudar a los técnicos de climatización a comprobar la comunicación y consultar averías en unidades exteriores de aire acondicionado inverter.
 
-Me encargué de la electrónica, el firmware, la interfaz y el montaje de la placa dentro de la carcasa. Puedo mostrar cómo el equipo indica una avería y cómo cambia la lectura al restablecer la condición del sensor.
-
 ## Interfaz para un equipo de prueba
 
 **Estado: desarrollo con firmware implementado; demostración pendiente.**
