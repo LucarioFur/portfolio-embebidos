@@ -20,6 +20,11 @@ He desarrollado una interfaz con pantalla TFT y encoder para navegar por menús,
 
 He trabajado en dos prototipos para transportar comunicación serie por un enlace inalámbrico: uno con STM32WL y radio, y otro con ESP8266 y Wi-Fi. En ellos he integrado la transmisión de datos y la gestión de los estados del enlace.
 
+## Muestras de código y PCB
+
+He seleccionado algunos [fragmentos comentados y detalles de mis placas](muestras/README.md) para mostrar cómo trabajo.
+
 ## Presentación técnica
 
 Durante una entrevista puedo mostrar el funcionamiento del multisimulador y explicar las decisiones que tomé en estos proyectos.
+
